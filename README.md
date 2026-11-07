@@ -92,6 +92,7 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
 ### Projects
 
 - [Layer 2 Index L2Beat](https://l2beat.com/)
+- [Chain.Love](https://chain.love/) - Open-source directory of Ethereum and Layer 2 RPC node providers, rollups, block explorers, bridges, indexers, and SDKs ([GitHub](https://github.com/Chain-Love/chain-love))
 - Optimistic Rollups:
   - [The Hubble Project](https://github.com/thehubbleproject)
   - [Arbitrum](https://github.com/OffchainLabs/arbitrum)
